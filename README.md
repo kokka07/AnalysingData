@@ -24,6 +24,6 @@ Participants will provide concise, informative, and accurately worded PowerPoint
 
 #### You can download the AdventureWorks database backup file from the following link:
 
-[AdventureWorks2022.bak](AdventureWorks2022.bak)
+[AdventureWorks2022.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak)
 
 ![68747470733a2f2f7777772e6c6971756964706c616e6e65722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30342f48695265732d31372e6a7067](https://github.com/kokka07/AnalysingData/assets/161130949/2d6d4859-3c68-4cd5-b036-e3f616bc5219)
